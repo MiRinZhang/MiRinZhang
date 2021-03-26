@@ -1,4 +1,4 @@
-### Hi there 👋
+I'm MiRinZhang, a FE Developer from Beijing, China.
 
 - 🔭 I’m currently working on MeiTuan
 - 🌱 I’m currently learning GoLang/Rust、Fultter
