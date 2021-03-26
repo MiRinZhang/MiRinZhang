@@ -36,4 +36,9 @@ I'm **MiRinZhang**, a FE Developer from Beijing, China.
 
 #### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [关于我](https://www.mirinzhang.com/about/)
+- [[记] 使用Animated实现loading效果](https://www.mirinzhang.com/post/2018/%E8%AE%B0-%E4%BD%BF%E7%94%A8Animated%E5%AE%9E%E7%8E%B0loading%E6%95%88%E6%9E%9C/)
+- [[记] 在React-Native中检查元素是否进入视口](https://www.mirinzhang.com/post/2018/%E8%AE%B0-%E5%9C%A8React-Native%E4%B8%AD%E6%A3%80%E6%9F%A5%E5%85%83%E7%B4%A0%E6%98%AF%E5%90%A6%E8%BF%9B%E5%85%A5%E8%A7%86%E5%8F%A3/)
+- [React context API初探](https://www.mirinzhang.com/post/2018/React-context-API%E5%88%9D%E6%8E%A2/)
+- [使用Webhook实现自动部署](https://www.mirinzhang.com/post/2018/%E4%BD%BF%E7%94%A8Webhook%E5%AE%9E%E7%8E%B0%E8%87%AA%E5%8A%A8%E9%83%A8%E7%BD%B2/)
 <!-- BLOG-POST-LIST:END -->
