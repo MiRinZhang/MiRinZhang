@@ -1,6 +1,6 @@
-[<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=MiRinZhang&show_icons=true&count_private=true&theme=onedark">]((https://github.com/MiRinZhang/github-readme-stats))
+[<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=mirinzhang&show_icons=true&count_private=true&theme=onedark">]((https://github.com/MiRinZhang/github-readme-stats))
 
-Hi there 👋, I'm **MiRinZhang**, a FE Developer from Beijing, China.
+Hi there 👋, I'm **mirinzhang**, a FE Developer from Beijing, China.
 
 - 🔭 I’m currently working on MeiTuan
 - 🌱 I’m currently learning Go/Rust、Fultter
